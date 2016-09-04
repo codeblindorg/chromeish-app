@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
 
-  "name": "Shabbos Countdown Plugin",
-  "description": "This extension will count down the time to this weeks shabbos in your area and can provide weekly Torah portions",
+  "name": "Chromeish",
+  "description": "This extension will count down the time to this weeks shabbos in your area and can provide weekly Torah portions along with a few other things coming soon",
   "version": "1.0",
 
   "browser_action": {
-   "default_icon": "icon.png",
+   "default_icon": "images/icon.png",
    "default_popup": "popup.html"
   },
   "options_ui": {
